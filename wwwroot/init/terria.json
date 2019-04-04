@@ -7,6 +7,17 @@
   },
   "catalog": [
     {
+      "name": "CSW",
+      "type": "group",
+      "items": [
+        {
+          "name": "homebrewcsw",
+          "type": "csw",
+          "url": "http://localhost:8080/api/"
+        }
+	   ]
+	},
+	{
       "name": "Example Datasets",
       "type": "group",
       "preserveOrder": true,
