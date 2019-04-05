@@ -44,15 +44,15 @@
         // See comments in lib/Views/global.scss for further information about customising colors, logos, fonts etc.
         brandBarElements: [
             "",
-            "<a target=\"_blank\" href=\"https://terria.io\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+            "<a target=\"_blank\" href=\"https://www.csiro.au/en/Research/LWF\"><img src=\"images/csiro-lw2.png\" height=\"70\" title=\"Version: {{version}}\" /></a>",
             ""
         ],
         // Shown when things go wrong.
-        supportEmail: "help@example.com",
+        supportEmail: "lw-dam-support@csiro.au",
         // You probably shouldn't change this.
         proj4ServiceBaseUrl: "proj4def/",
         // Or this
-        feedbackUrl: "feedback",
+        feedbackUrl: "https://jira-sd.csiro.au/servicedesk/customer/portal/31",
 
         // Default mobile viewer mode when loading the map for the first time on mobile platforms.
         // Options are: "3DTerrain", "3DSmooth", "2D"
